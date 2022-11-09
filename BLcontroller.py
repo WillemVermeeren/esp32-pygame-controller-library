@@ -1,3 +1,6 @@
+# to the person having to read this mess
+#
+# i am sorry
 
 
 import bluetooth
